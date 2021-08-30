@@ -1,0 +1,51 @@
+.prod-details
+{
+	width: 100%;
+	margin-left: 210px;
+}
+
+.prod-details h3
+{
+	margin-right: 390px;
+	color: orange;
+	font-weight: bold;
+	text-align: center;
+}
+
+table
+{
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+	display: inline-block;
+}
+
+.prod-details h4
+{
+	margin-left: 40px;
+	color: rgb(52, 152, 219);
+	font-weight: bold;
+	display: inline-block;
+}
+
+.action-btn
+{
+	margin-top: 50px;
+}
+
+.action-btn input
+{
+	display: inline-block;
+	margin-left: 330px;
+	height: 40px;
+	width: 15%;
+	justify-content: center;
+	color: white;
+	background-color: rgb(52, 152, 219);
+	cursor: pointer;
+	border: none;
+	font-weight: bold;
+	font-size: 17px;
+	margin-bottom: 20px;
+	border-radius: 18px;
+}
